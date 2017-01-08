@@ -1,0 +1,5 @@
+projectKey=javahome:Realtime
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/javahome:Realtime
+ceTaskId=AVl89oUDUk2T1MMszGzV
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVl89oUDUk2T1MMszGzV
